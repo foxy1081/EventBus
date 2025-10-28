@@ -65,9 +65,3 @@ Contributions are welcome! To contribute:
 4. Push the branch (`git push origin feature-name`).
 5. Open a pull request.
 
-Please follow the project's coding standards and include tests where applicable.
-
-
-[9](https://www.youtube.com/watch?v=Hf09ZCY9-8I)
-[10](https://pkg.go.dev/github.com/darvik80/event-bus)
-[11](https://repos.ecosyste.ms/topics/eventbus?page=3&per_page=100)
